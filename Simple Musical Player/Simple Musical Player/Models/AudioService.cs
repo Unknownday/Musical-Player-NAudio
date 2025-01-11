@@ -8,5 +8,6 @@ namespace Simple_Musical_Player.Models
 {
     internal class AudioService
     {
+
     }
 }

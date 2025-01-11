@@ -68,7 +68,9 @@
     <Compile Include="Models\AudioFileModel.cs" />
     <Compile Include="Models\AudioService.cs" />
     <Compile Include="Models\LanguageModel.cs" />
+    <Compile Include="Models\PlayerControlls.cs" />
     <Compile Include="Models\PlaylistModel.cs" />
+    <Compile Include="Models\PlaylistService.cs" />
     <Compile Include="Properties\App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
