@@ -10,7 +10,7 @@ using System.Xml.Linq;
 
 namespace Simple_Musical_Player.Models
 {
-    public class PlaylistService
+    public static class PlaylistService
     {
         /// <summary>
         /// Creates a new playlist with the specified user name

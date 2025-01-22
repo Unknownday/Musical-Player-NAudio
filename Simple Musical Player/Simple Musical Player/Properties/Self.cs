@@ -19,5 +19,10 @@ namespace Simple_Musical_Player.Properties
         /// </summary>
         public static Dictionary<string, List<AudioFileModel>> PlaylistToSongListMap { get; set; } = new Dictionary<string, List<AudioFileModel>>();
 
+        /// <summary>
+        /// 
+        /// </summary>
+        public static LanguageModel LanguageModelInstance = new LanguageModel();
+
     }
 }

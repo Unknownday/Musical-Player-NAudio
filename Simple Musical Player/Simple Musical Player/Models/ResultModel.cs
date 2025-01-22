@@ -17,8 +17,6 @@
         /// </summary>
         public ResultStatus Status;
 
-
-
         /// <summary>
         /// Constructor with only status
         /// </summary>

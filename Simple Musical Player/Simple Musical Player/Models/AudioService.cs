@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Simple_Musical_Player.Models
 {
-    internal class AudioService
+    public static class AudioService
     {
 
     }

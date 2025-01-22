@@ -12,7 +12,7 @@ namespace Simple_Musical_Player.Models
         /// <summary>
         /// Playlist name used by frontend
         /// </summary>
-        public string PlaylistName = null;
+        public string PlaylistName;
 
         /// <summary>
         /// Playlist id in ListBox
